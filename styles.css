@@ -191,6 +191,10 @@ body {
     color: var(--secondary-text-color);
     text-align: justify;
 }
+.skills__types{
+    margin-top: 20px;
+}
+
 
 
 /* EXPERIENCE AND ADDITIONAL INFO STYLES */
