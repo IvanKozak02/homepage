@@ -253,6 +253,9 @@ body {
 }
 
 .additional-info__education {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
     margin-bottom: 20px;
 }
 
@@ -273,6 +276,10 @@ body {
     color: var(--primary-text-color);
     text-align: left;
     margin-bottom: 10px;
+}
+
+.additional-info__education-university-certificates{
+    padding: 0 0 15px 45px;
 }
 
 .additional-info__education-university-name {
